@@ -1,0 +1,21 @@
+{
+	"firstName": "Mary",
+	"lastName": "Jane",
+	"address": [
+		{
+			"street": "Cambie",
+			"city": "Vancouver",
+			"state": "BC"
+		},
+		{
+			"street": "That",
+			"city": "Toronto",
+			"state": "ON"
+		},
+		{
+			"street": "This",
+			"city": "Montreal",
+			"state": "QC"
+		}
+	]
+}
